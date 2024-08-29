@@ -1,4 +1,4 @@
-![logo](https://github.com/MrPiyushmandloi/MrPiyushmandloi/blob/main/README.md)
+![logo](https://github.com/MrPiyushmandloi/MrPiyushmandloi/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Piyush Mandloi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
